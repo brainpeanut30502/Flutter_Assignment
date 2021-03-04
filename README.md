@@ -1,16 +1,2 @@
-# doodle_app
+Respected Sir, while trying to learn to code in Flutter I was facing the following issues. I do not have a very strong background in Object oriented Languages(I am currently learning JAVA but am not very proficient in it yet), and Dart being an Object Oriented Language has caused me much troubles in understaning the true essence of the codes.In order to enhance my credibility in Dart, i had decided to follow a beginners tutorial in dart programming. This resluted in me being unable to come up with a decent application on time, but on the other hand I didn't just want to blindly copy-paste a code which I did not truly understand, as I feel that would negate the purpose of theese assignments altogether.Nonetheless, I have been fairly consistent with the previous assignments and I hope that you consider me for the recruitment process.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
