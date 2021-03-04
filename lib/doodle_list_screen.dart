@@ -21,7 +21,6 @@ class DoodleListScreen extends StatefulWidget {
 }
 class _DoodleListScreenState extends State<DoodleListScreen> {
   List<MyListItem> listItems =[];
-  String val ="";
   TextEditingController textController = TextEditingController();
   void addNewItemToList(String title) {
     setState(() {
